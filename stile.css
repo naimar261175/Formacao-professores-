@@ -21,7 +21,7 @@ body{
     width: 95%;
     padding: 20px;
     margin: 5px;
-    display: flex;
+    display: inline-flex;
     text-align: center;
     align-items: center;
     border-bottom: #dcdcdc solid;
@@ -32,4 +32,5 @@ body{
     font-size: 24px;
     text-shadow: 2px 4px rgba(255, 174, 0, 0.5);
     color: #ff9900;
+    float: right;
 }

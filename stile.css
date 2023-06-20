@@ -16,6 +16,12 @@ body{
     background-color: #ffffff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+<<<<<<< HEAD
+
+.item1{
+    font-style: italic;
+}
+
 .cabecalho{
     height: 20%;
     width: 95%;
@@ -34,3 +40,5 @@ body{
     color: #ff9900;
     float: right;
 }
+
+>>>>>>> 8e7a1002689c184972371ce20bc5844e578cda59
